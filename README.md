@@ -2,7 +2,7 @@
 Grinded pretty hard for a term on UNSW Competitive Programming course. Got quite a bit better at coding 🚀🚀.
 
 ## Questions Completed
-| **Rank**               | **Rating Range** | **Count** |
+| **Codeforces Rank**               | **Rating Range** | **Count** |
 |------------------------|-----------------|-----------|
 | <span style="color:red;">**♟️ Grandmaster**</span>       | 2400+           | 2 |
 | <span style="color:orange;">**🌎 International Master**</span> | 2200-2399       | 6 |
