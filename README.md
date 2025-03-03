@@ -2,7 +2,7 @@
 Grinded pretty hard for a term on UNSW Competitive Programming course. Got quite a bit better at coding 🚀🚀.
 
 ## Questions Completed
-| **Codeforces Rank**               | **Rating Range** | **Count** |
+| **CodeForces Rank**               | **Rating Range** | **Count** |
 |------------------------|-----------------|-----------|
 | <span style="color:red;">**♟️ Grandmaster**</span>       | 2400+           | 2 |
 | <span style="color:orange;">**🌎 International Master**</span> | 2200-2399       | 6 |
@@ -12,7 +12,7 @@ Grinded pretty hard for a term on UNSW Competitive Programming course. Got quite
 | <span style="color:purple;">**🧑‍🏫 Specialist**</span>       | Below 1600      | 6 |
 | <span style="color:gray;">**👩‍🦲 Unrated**</span>       | Unrated      | 17 |
 
-**_Unrated questions can span from Specialist to IM level olympiad questions._
+**_Unrated questions can span from CodeForces Specialist to GM level olympiad questions._
 ## Full List
 | **Problem Name**                                | **Platform**  | **Rating**  |
 |------------------------------------------------|--------------|------------|
